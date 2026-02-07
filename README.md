@@ -2,7 +2,7 @@
 
 A powerful AI chatbot built with Streamlit and powered by Groq's lightning-fast LLM API. Chat with state-of-the-art language models completely free!
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_LIVE_DEMO_LINK_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](LIVE_DEMO_LINK_HERE)
 
 ## ✨ Features
 
@@ -16,9 +16,8 @@ A powerful AI chatbot built with Streamlit and powered by Groq's lightning-fast 
 
 ## 🎥 Demo
 
-**[🔗 Try Live Demo Here](YOUR_LIVE_DEMO_LINK_HERE)**
-
-![Chatbot Screenshot](https://via.placeholder.com/800x400.png?text=AI+Chatbot+Screenshot)
+**[🔗 Try Live Demo Here][(_LIVE_DEMO_LINK_HERE)**
+](https://rapidai-chatbot.streamlit.app/)
 
 ## 🚀 Quick Start
 
@@ -177,10 +176,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/YOUR_USERNAME/ai-chatbot](https://github.com/YOUR_USERNAME/ai-chatbot)
-
+Your Name -(https://linkedin.com/in/vinay-singh-tomar-5b65b9377)
+Project Link:(https://rapidai-chatbot.streamlit.app/)
 ## 🐛 Known Issues
 
 - Chat history is stored in session state (clears on page refresh in local dev)
