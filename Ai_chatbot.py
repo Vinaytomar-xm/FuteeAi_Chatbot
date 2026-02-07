@@ -4,6 +4,14 @@ import requests
 from datetime import datetime
 import os
 
+
+st.markdown("""<style>
+            .stDeployButton {
+                visibility: hidden;
+                }
+            </style>""", unsafe_allow_html=True)
+
+
 # ---------------- CONFIG ----------------
 st.set_page_config(
     page_title="RapidAI Chatbot",
@@ -233,4 +241,5 @@ if prompt := st.chat_input("Type your message..."):
     
     # Auto-save chat after every response
     save_current_chat()
+
 
